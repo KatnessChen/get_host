@@ -33,4 +33,4 @@ console.log("--------------------");
 
 // 8. Let's decide the next host by the nonce
 const howManyPeopleOfStx = 38;
-console.log("The next MC is:", nonce % howManyPeopleOfStx);
+console.log("The next host is no.", nonce % howManyPeopleOfStx);
